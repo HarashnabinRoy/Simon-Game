@@ -8,3 +8,5 @@ Firstly, the game shows the first colour in the sequence (suppose blue). The pla
 Next, the game shows the next colour (suppose red), the player has to remember the sequence is blue, red and so on and so forth.
 
 If the player messes up the sequence, the game ends.
+<hr>
+Game Link: https://harashnabinroy.github.io/Simon-Game/
